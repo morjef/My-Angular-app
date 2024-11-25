@@ -1,2 +1,2 @@
-FROM aline:latest
+FROM alpine:latest
 CMD echo "Hello world"
